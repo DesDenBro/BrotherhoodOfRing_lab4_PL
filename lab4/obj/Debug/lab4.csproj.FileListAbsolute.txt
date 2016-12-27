@@ -1,0 +1,6 @@
+C:\Users\Денис\Source\Repos\BrotherhoodOfRing_lab4_PL\lab4\bin\Debug\lab4.exe.config
+C:\Users\Денис\Source\Repos\BrotherhoodOfRing_lab4_PL\lab4\bin\Debug\lab4.exe
+C:\Users\Денис\Source\Repos\BrotherhoodOfRing_lab4_PL\lab4\bin\Debug\lab4.pdb
+C:\Users\Денис\Source\Repos\BrotherhoodOfRing_lab4_PL\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Source\Repos\BrotherhoodOfRing_lab4_PL\lab4\obj\Debug\lab4.exe
+C:\Users\Денис\Source\Repos\BrotherhoodOfRing_lab4_PL\lab4\obj\Debug\lab4.pdb
